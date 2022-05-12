@@ -1,0 +1,6 @@
+table tr td:first-child {
+  border-right: 1px solid red;
+}
+.detailOpened {
+  transform: scaleY(1) !important;
+}

@@ -1,0 +1,66 @@
+.menu-card div svg path {
+  transition: all .2s !important;
+}
+
+.menu-card:hover .users-icon-box svg path {
+  fill: #47aeff;
+}
+.menu-card:hover .users-icon-box .users path {
+  fill: #fff;
+}
+
+.menu-card:hover .cube-icon-box svg path {
+  fill: #ffa76e;
+}
+.menu-card:hover .cube-icon-box .cube path {
+  fill: #fff;
+}
+
+.menu-card:hover .carretDown-icon-box svg path {
+  fill: #e80368;
+}
+.menu-card:hover .carretDown-icon-box .carretDown path {
+  fill: #fff;
+}
+
+.menu-card:hover .coins-icon-box svg path {
+  fill: #ffbb2c;
+}
+.menu-card:hover .coins-icon-box .coins path {
+  fill: #fff;
+}
+
+.menu-card:hover .gamepad-icon-box svg path {
+  fill: #ff5828;
+}
+.menu-card:hover .gamepad-icon-box .gamepad path {
+  fill: #fff;
+}
+
+.menu-card:hover .mapMarked-icon-box svg path {
+  fill: #11dbcf;
+}
+.menu-card:hover .mapMarked-icon-box .mapMarked path {
+  fill: #fff;
+}
+
+.menu-card:hover .calendar-icon-box svg path {
+  fill: #e80368;
+}
+.menu-card:hover .calendar-icon-box .calendar path {
+  fill: #fff;
+}
+
+.menu-card:hover .closedCaptioning-icon-box svg path {
+  fill: #47aeff;
+}
+.menu-card:hover .closedCaptioning-icon-box .closedCaptioning path {
+  fill: #fff;
+}
+
+.menu-card:hover .palette-icon-box svg path {
+  fill: #ffa76e;
+}
+.menu-card:hover .palette-icon-box .palette path {
+  fill: #fff;
+}
