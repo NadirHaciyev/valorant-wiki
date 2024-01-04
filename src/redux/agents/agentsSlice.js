@@ -27,6 +27,7 @@ const agentsSlice = createSlice({
       state.filteredAgents = filteredAgents;
     }
   },
+
   extraReducers: {
     [fetchAgents.pending]: (state, action) => {
       state.status = "loading";
